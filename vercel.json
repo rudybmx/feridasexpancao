@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "public": true,
+  "name": "feridas-franchising",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/$1" }
+  ]
+}
